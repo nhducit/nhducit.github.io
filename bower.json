@@ -1,0 +1,20 @@
+{
+  "name": "nhducit.github.io",
+  "version": "0.0.1",
+  "homepage": "https://github.com/nhducit/nhducit.github.io",
+  "authors": [
+    "DucNguyen <nhduc296@gmail.com>"
+  ],
+  "description": "Duc Nguyen Huu's site",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4.7"
+  }
+}
