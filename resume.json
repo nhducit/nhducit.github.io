@@ -1,0 +1,112 @@
+{
+  "basics": {
+    "name": "Nguyen Huu Duc",
+    "label": "Front-end developer",
+    "picture": "",
+    "email": "nhducit@gmail.com",
+    "phone": "+84 1689 153 791",
+    "website": "",
+    "summary": "Senior front-end developer with more than 2 years experiences building a large single page application Network Management System for Alcatel-Lucent by using AngularJS. Always looking for the solution to be more productive. Self-study to gain a deep understanding of Javascript and catch-up cutting edge front-end technology. ",
+    "location": {
+      "address": "37/9/5 Street 5, Ward 16, Go Vap District",
+      "postalCode": "70000",
+      "city": "Ho Chi Minh",
+      "countryCode": "Viet Nam",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "nhducit",
+        "url": "https://github.com/nhducit"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "TMA Solutions",
+      "position": "Engineer",
+      "website": "http://www.tmasolutions.com",
+      "startDate": "2014-03-18",
+      "endDate": "2016-03-18",
+      "summary": "Together with team build high quality large scale single page application for Network Management system for Alcatel-Lucent Inc.",
+      "highlights": [
+        "Co-operate with team mate to provide high quality features.",
+        "Build directives to help colleagues remove boilerplate and be more productive.",
+        "Build a wrapper service of oboe.js to handle stream JSON response to provide better user experience and fail-safe.",
+        "Apply WebSocket to provide real time topology application.",
+        "Member of Solution Team, reviews and provide feedback for colleague's mockup, support teammate resolve troubles and train newcomers."
+      ]
+    },
+    {
+      "company": "Telsoft",
+      "position": "Engineer",
+      "website": "http://www.telsoft.com.vn",
+      "startDate": "2013-10-01",
+      "endDate": "2014-01-01",
+      "summary": "Gather requirement, specification and design a web-based management system for Vietnam Posts and Telecommunications Group.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Science",
+      "area": "Math & Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2009-09-01",
+      "endDate": "2013-09-01",
+      "gpa": "7.6",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award of Excellence",
+      "date": "2016-01-11",
+      "awarder": "PA5",
+      "summary": ""
+    },
+    {
+      "title": "Great contributrion",
+      "date": "2015-02-01",
+      "awarder": "Extra-ordinary effort",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Advanced",
+      "keywords": [
+        "Javascript",
+        "AngularJS",
+        "HTML",
+        "CSS ",
+        "WebSocket",
+        "Oboe.js"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Vietnamese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Game",
+      "keywords": [
+        "Modern Warface",
+        "Battle Field"
+      ]
+    }
+  ],
+  "references": []
+}
