@@ -6,7 +6,7 @@
     "email": "nhducit@gmail.com",
     "phone": "+84 1689 153 791",
     "website": "",
-    "summary": "Senior front-end developer with more than 2 years experiences building a large single page application Network Management System for Alcatel-Lucent by using AngularJS. Always looking for the solution to be more productive. Self-study to gain a deep understanding of Javascript and catch-up cutting edge front-end technology. ",
+    "summary": "Senior front-end developer with more than 2 years experiences building a large single page application Network Management System for Alcatel-Lucent by using AngularJS. Always looking for the solution to be more productive. Self-study to gain a deep understanding of Javascript and catch-up cutting edge front-end technology. Trying to be more productivity everyday.",
     "location": {
       "address": "37/9/5 Street 5, Ward 16, Go Vap District",
       "postalCode": "70000",
@@ -28,12 +28,12 @@
       "position": "Engineer",
       "website": "http://www.tmasolutions.com",
       "startDate": "2014-03-18",
-      "endDate": "2016-03-18",
+      "endDate": "2016-04-05",
       "summary": "Together with team build high quality large scale single page application for Network Management system for Alcatel-Lucent Inc.",
       "highlights": [
         "Co-operate with team mate to provide high quality features.",
         "Build directives to help colleagues remove boilerplate and be more productive.",
-        "Build a wrapper service of oboe.js to handle stream JSON response to provide better user experience and fail-safe.",
+        "Build an AngularJS service for oboe.js to handle stream JSON response to provide better user experience and fail-safe.",
         "Apply WebSocket to provide real time topology application.",
         "Member of Solution Team, reviews and provide feedback for colleague's mockup, support teammate resolve troubles and train newcomers."
       ]
