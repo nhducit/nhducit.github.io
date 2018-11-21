@@ -4,9 +4,9 @@
     "label": "Front-end developer",
     "picture": "http://nhducit.github.io/avatar.jpg",
     "email": "nhducit@gmail.com",
-    "phone": "+84 1689 153 791",
+    "phone": "+84 389 153 791",
     "website": "",
-    "summary": "Senior front-end developer with three years experiences. I have a strong Javascript foundation, front-end technology, self-study, always catch-up cutting edge front-end technology and try to be more productivity every day.",
+    "summary": "I have a strong Javascript foundation, front-end technology, self-study, always catch-up cutting edge front-end technologies and try to be more productivity and improve developer experiences. I am interesting in static type languages and functional programming.",
     "location": {
       "address": "37/9/5 Street 5, Ward 16, Go Vap District",
       "postalCode": "70000",
@@ -24,6 +24,19 @@
   },
   "work": [
     {
+      "company": "Carousell",
+      "position": "Senior Software Engineer",
+      "website": "https://carousell.com",
+      "startDate": "2016-10-16",
+      "endDate": "2018-11-16",
+      "summary": "",
+      "highlights": [
+        "Build https://carousellmotors.com from scratch: react, redux, redux-saga, server-side rendering.",
+        "Lead a team of 5 to build Carousell Pro in React Native.",
+        "Member of platform team refactoring and implement new features to improve web SEO."
+      ]
+    },
+    {
       "company": "Silicon Strais Saigon",
       "position": "Senior Front-end Developer",
       "website": "http://www.siliconstraits.com/",
@@ -31,9 +44,9 @@
       "endDate": "2016-10-15",
       "summary": "I build a Call Center application for BlueBird, the biggest taxi firm of Indonesia by using React, Electron, RethinkDB.",
       "highlights": [
-        "Build application with cutting-edge technologies: React, Redux, Electron, Ramda",
-        "Use RethinkDB and Horizon.io to build realtime application",
-        "Help another team build an analytics application base on highchart.js"
+        "Build application with cutting-edge technologies: React, Redux, Electron, Ramda.",
+        "Use RethinkDB and Horizon.io to build realtime application.",
+        "Help another team build an analytics application base on highchart.js."
       ]
     },
     {
@@ -44,10 +57,9 @@
       "endDate": "2016-05-14",
       "summary": "Together with team build high quality large scale single page application for Network Management system for Alcatel-Lucent Inc.",
       "highlights": [
-        "Co-operate with teammate to provide high-quality features.",
         "Build directives to help colleagues remove boilerplate and be more productive.",
         "Build an AngularJS service for oboe.js to handle stream JSON response to provide better user experience and fail-safe.",
-        "Apply WebSocket to provide real-time topology application.",
+        "Use WebSocket to provide real-time topology application.",
         "Member of Solution Team, reviews and provide feedback for colleague's mockup, support teammate resolve troubles and train newcomers."
       ]
     },
@@ -75,6 +87,12 @@
   ],
   "awards": [
     {
+      "title": "Carousell Star Awards",
+      "date": "2016-06-01",
+      "awarder": "Carousell Star Awards",
+      "summary": ""
+    },
+    {
       "title": "Great contribution",
       "date": "2016-06-01",
       "awarder": "Pirate of Month",
@@ -94,41 +112,8 @@
     }
   ],
   "publications": [],
-  "skills": [
-    {
-      "name": "Web Development",
-      "level": "Advanced",
-      "keywords": [
-        "Javascript",
-        "AngularJS",
-        "React",
-        "HTML",
-        "CSS ",
-        "WebSocket",
-        "Ramda",
-        "Electron",
-        "Oboe.js"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Vietnamese",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Intermediate"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Game",
-      "keywords": [
-        "Modern Warface",
-        "Battle Field"
-      ]
-    }
-  ],
+  "skills": [],
+  "languages": [],
+  "interests": [],
   "references": []
 }
